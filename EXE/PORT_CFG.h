@@ -7,5 +7,5 @@
 ***********************************************************************************************************/
 #ifndef PORT_CFG_h
 #define PORT_CFG_h
-#define PORT_CONFIGURED_CHANNELS 4
+#define PORT_CONFIGURED_CHANNELS 3
 #endif

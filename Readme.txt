@@ -25,8 +25,7 @@ PDCM V1.2 Release Notes:
                                                                             10- Platform.h          in common
                                                                             11- Std_Types.h         in common
                                                                             12- tm4c123gh6pm_reg.h  in common
-                          5-Application file contains two functions, Mcal_init and Hal_init this two functions are used to initialize the drivers of the Mcal layer and Hal
-                          layer , put your drivers initialization in these two functions
+                          5-Application file contains two functions, Mcal_init and Hal_init this two functions are used to initialize the drivers of the Mcal layer and                           Hal layer , put your drivers initialization in these two functions
                           
                           6- the main file call that two functions before the while(1)
 

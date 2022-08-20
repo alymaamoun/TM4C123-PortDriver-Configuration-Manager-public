@@ -3,12 +3,15 @@ PDCM V1.2 Release Notes:
   Features and updates:
                          1- Port Driver updated to be AUTOSAR with version 4.0.3
                          2- Clear pin button added to enable the user to delete a configured Pin
-                         3- The Configuration will be saved in a directory choosen by the user this directory contains:
-                                                                                                                        1-MCAL    folder
-                                                                                                                        2-HAL     folder
-                                                                                                                        3-Config  folder
-                                                                                                                        4-Common  folder
-                                                                                                                        5-App     folder
+                         3- The Configuration will be saved in a directory choosen by the user
+                         4-this directory contains:
+                                                   1-MCAL    folder
+                                                   2-HAL     folder
+                                                   3-Config  folder
+                                                   4-Common  folder
+                                                   5-App     folder
+                                                   
+                                                   
                           4- the application of this version will generate:
                                                                             1-  Port.c              in Mcal
                                                                             2-  Port.h              in Mcal/include
